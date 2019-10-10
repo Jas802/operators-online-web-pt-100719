@@ -5,6 +5,7 @@ if speed <40 || >60
 else
 	return "This speed is safe."
 end
+end
 
 
 
